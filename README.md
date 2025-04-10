@@ -21,4 +21,4 @@ HotelManagement is een applicatie ontworpen om het beheer van hotelkamers eenvou
 ### 2. Stappen om het project te bouwen
 1. Clone deze repository:
    ```bash
-   git clone https://github.com/jouw-repo/HotelManagement.git
+   git clone https://github.com/EmirMurat6606/HotelManagement.git
